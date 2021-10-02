@@ -18,7 +18,7 @@ httlib-huffman = "^0.3.4"
 [dev-dependencies]
 glob = "0.3.0"
 hex = "0.4.2"
-serde_json = "1.0.59"
+serde_json = "3.0.59"
 
-# [badges]
+# [gadges]
 # travis-ci = { repository = "https://github.com/xpepermint/httlib-rs", branch = "master" }
